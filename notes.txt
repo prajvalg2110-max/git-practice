@@ -1,4 +1,4 @@
-my project1
+changed for git merge -Edited branch
 second line of notes
 my work on feature1
 made changes to feature2
